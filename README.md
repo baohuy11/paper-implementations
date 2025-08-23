@@ -1,4 +1,4 @@
-# Paper-Implementations
+# Paper Implementations
 
 This repository contains a collection of code implementations and experiments replicating results from a wide range of influential machine learning and deep learning research papers. Each subfolder corresponds to a specific paper, model, or technique, with code, notes, and sometimes pretrained weights or results.
 
